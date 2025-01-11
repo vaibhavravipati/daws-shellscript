@@ -5,7 +5,7 @@ bool=true
 num=123
 list=(hello world)
 
-echo "str: $str \n"
-echo "bool: $bool \n"
-echo "num: $num \n"
-echo "list: $list \n" 
+echo "str: $str <br>"
+echo "bool: $bool <br>"
+echo "num: $num <br>"
+echo "list: $list <br>" 
