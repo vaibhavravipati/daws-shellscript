@@ -24,7 +24,7 @@ VALIDATE_PACKAGE()
 
 
 VALIDATE_USER
-dnf list installed mysqld
+dnf list installed mysql
 echo "mysqld exit status is $?"
 
 if [ $? -ne 0 ]
