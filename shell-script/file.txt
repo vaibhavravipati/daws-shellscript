@@ -1,0 +1,8 @@
+A quantum computer is a computer that exploits quantum mechanical phenomena
+physical matter exhibits properties of both particles and waves, and quantum computing leverages this behavior
+Theoretically a large-scale quantum computer could break some widely used encryption schemes and aid physicists in performing physical simulations
+however, the current state of the art is largely experimental and impractical
+,abc
+123 , xyz
+@@
+##
