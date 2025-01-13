@@ -30,7 +30,7 @@ if [ $? -ne 0 ]
     then
         dnf install mysql-server -y
         VALIDATE_PACKAGE "mysql-server"
-    else
-        echo "Already installed mysql-server"
+else
+    echo "Already installed mysql-server"
 fi
 
